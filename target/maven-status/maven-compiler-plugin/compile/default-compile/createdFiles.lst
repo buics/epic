@@ -1,0 +1,8 @@
+Epic\Epic\UserStory.class
+Epic\Epic\Epic.class
+Epic\Epic\Feature.class
+Epic\Epic\EpicApp.class
+Epic\Epic\SwaggerConfig.class
+Epic\Epic\Task.class
+Epic\Epic\AppRepository.class
+Epic\Epic\Defect.class
